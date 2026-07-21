@@ -21,7 +21,7 @@ This project builds and compares four machine learning algorithms to predict cus
 3. Open the notebook: `Customer Churn Prediction Project.ipynb`
 
 ## 📂 Files
-- `My_Test_Project.ipynb` - Full analysis and modelling pipeline
+- `Customer Churn Prediction Project.ipynb` - Full analysis and modelling pipeline
 - `telco_churn_best_model.pkl` - Saved model
 - `model_comparison_results.csv` - Model evaluation comparison
 - `requirements.txt` - Python dependencies
