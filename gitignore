@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+
+# Colab temporary files (if any)
+*.tmp
+
+# Local configuration (if you ever create one)
+.env
+*.local
+
+# Remove this line if you DO want to ignore pickle files:
+# *.pkl   <-- DO NOT uncomment this unless you want to remove the model from tracking
