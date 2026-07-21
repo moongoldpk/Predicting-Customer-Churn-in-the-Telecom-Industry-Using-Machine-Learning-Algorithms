@@ -8,7 +8,7 @@ This project builds and compares four machine learning algorithms to predict cus
 - Logistic Regression (Best Model)
 - Decision Tree
 - Random Forest
-- XGBoost
+- XGBoost.
 
 ## 📈 Key Findings
 - **Month-to-month contracts** are the strongest predictor of churn
