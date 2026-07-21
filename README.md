@@ -18,7 +18,7 @@ This project builds and compares four machine learning algorithms to predict cus
 ## 🚀 How to Run
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Open the notebook: `jupyter notebook My_Test_Project.ipynb`
+3. Open the notebook: `Customer Churn Prediction Project.ipynb`
 
 ## 📂 Files
 - `My_Test_Project.ipynb` - Full analysis and modelling pipeline
