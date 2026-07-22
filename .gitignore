@@ -6,3 +6,5 @@ __pycache__/
 *.pkl
 .DS_Store
 sample_data/
+\n# Allow the small comparison CSV\n*.csv\n!model_comparison_results.csv
+\n# Allow the small comparison CSV\n*.csv\n!model_comparison_results.csv
