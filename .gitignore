@@ -36,4 +36,4 @@ Thumbs.db
 *.local
 
 # Remove this line if you DO want to ignore pickle files:
-# *.pkl   <-- DO NOT uncomment this unless you want to remove the model from tracking
+# *.pkl   <-- DO NOT uncomment this unless you want to remove the model from tracking*.zip
