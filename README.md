@@ -16,9 +16,7 @@ This project builds and compares four machine learning algorithms to predict cus
 - **Electronic check** payment method is a red flag
 
 ## How to Run
-1. Clone this repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Open the notebook: `Customer Churn Prediction Project.ipynb`
+. Open the notebook: `Customer Churn Prediction Project.ipynb`
 
 ##  Files
 - `Customer Churn Prediction Project.ipynb` - Full analysis and modelling pipeline
