@@ -28,4 +28,5 @@ This project builds and compares four machine learning algorithms to predict cus
 - Python, Pandas, NumPy
 - Scikit-Learn, XGBoost
 - Matplotlib, Seaborn
+- Streamlit
 - 
