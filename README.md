@@ -16,10 +16,10 @@ This project builds and compares four machine learning algorithms to predict cus
 - **Electronic check** payment method is a red flag
 
 ## How to Run
-. Open the notebook: `Customer Churn Prediction Project.ipynb`
+. Open the notebook: `Customer_Churn_Prediction_Project.ipynb`
 
 ##  Files
-- `Customer Churn Prediction Project.ipynb` - Full analysis and modelling pipeline
+- `Customer_Churn_Prediction_Project.ipynb` - Full analysis and modelling pipeline
 - `telco_churn_best_model.pkl` - Saved model
 - `model_comparison_results.csv` - Model evaluation comparison
 - `requirements.txt` - Python dependencies
@@ -28,4 +28,4 @@ This project builds and compares four machine learning algorithms to predict cus
 - Python, Pandas, NumPy
 - Scikit-Learn, XGBoost
 - Matplotlib, Seaborn
-- Gradio (for UI)
+- 
