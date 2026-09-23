@@ -101,7 +101,7 @@ with st.form("customer_form"):
         paper = st.radio("Paperless Billing", ["No", "Yes"], horizontal=True)
         pay = st.selectbox("Payment Method", ["Electronic check", "Mailed check",
                                                "Bank transfer (automatic)", "Credit card (automatic)"])
-        mc = st.number_input("Monthly Charges ($)", 0.0, 200.0, 85.0)
+        mc = st.number_input("Monthly Charges ($)", 0.0, 2000.0, 850.0)
         tc = st.number_input("Total Charges ($)", 0.0, 10000.0, 250.0)
 
     col3, col4 = st.columns(2)
